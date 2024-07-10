@@ -20,11 +20,13 @@ I am currently doing a data engineering end-to-end project using an e-commerce d
 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nna01/) 
 
 
-[![Nowshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nna01)](https://github.com/nna01/github-readme-stats)
 
 
 <!--
 **nna01/nna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Nowshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nna01)](https://github.com/nna01/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
