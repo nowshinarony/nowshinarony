@@ -1,9 +1,9 @@
 ## Hi there, I'm Nowshin 👋
 
-I'm a Computer Science Graduate, currently improving my knowledge in **data engineering**. In this profile, I have updated my learning journey. 
+I'm a Computer Science Graduate in Canada, currently improving my **data engineering** knowledge. In this profile, I regularly update my learning journey. 
 
 ### 🔭 Currently Learning 
-I am currently doing a data engineering end-to-end project using an e-commerce dataset. So, far I have 
+I am currently doing an end-to-end data engineering project using an e-commerce dataset. So, far I have 
 - Created the data model (ERD) through analyzing the dataset
 - Created a database following the ERD and loaded the data using PostgreSQL
 
