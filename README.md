@@ -15,7 +15,7 @@ I am currently doing a data engineering end-to-end project using an e-commerce d
 - Python Project for Data Engineering (IBM) - [Coursera](https://coursera.org/share/a9b65d2fff98e599c28b26b32bb67538)
 - Preparing Data for Analysis with Microsoft Excel - [Coursera](https://www.coursera.org/account/accomplishments/verify/5K993KFCAUH8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-📫 How to reach me: [GitHub Pages](https://www.linkedin.com/in/nna01/) 
+📫 How to reach me: [linkedin](https://www.linkedin.com/in/nna01/) 
 
 
 <!--
