@@ -6,6 +6,9 @@ I'm a Computer Science Graduate in Canada, currently improving my **data enginee
 I am currently doing an end-to-end data engineering project using an e-commerce dataset [(repository link)](https://github.com/nna01/Data-Engeering-Brazil-Ecommerce). So, far I have 
 - Created the data model (ERD) through analyzing the dataset
 - Created a database following the ERD and loaded the data using PostgreSQL
+- Transformed the original ERD to Snowflake Schema
+- Implemented the Snowflake Schema using PostgreSQL
+- Wrote a Python Script to extract, transform, and load the data from Original database to the Snowflake schema database
 
 
 ### 🌱 Learned so far 
