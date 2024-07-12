@@ -2,6 +2,8 @@
 
 I'm a Computer Science Graduate in Canada, currently improving my **data engineering** knowledge. In this profile, I regularly update my learning journey. 
 
+I am open to Remote or Hybrid Roles, Internships and Part time opportunities.
+
 ### 🔭 Currently Learning 
 I am currently doing an end-to-end data engineering project using an e-commerce dataset [(repository link)](https://github.com/nna01/Data-Engeering-Brazil-Ecommerce). So, far I have 
 - Created the data model (ERD) through analyzing the dataset
