@@ -19,7 +19,7 @@ Also familiar with: `Python` `SQL` `Jira` `Notion` `Miro`
 - 📚 Sharing case studies and building cool side projects
 
 ### 📂 Featured Projects
-Check out some of my work here 👉 [nowshinarony.github.io](https://nowshinarony.github.io/))
+Check out some of my work here 👉 [nowshinarony.github.io](https://nowshinarony.github.io/)
 
 ---
 
