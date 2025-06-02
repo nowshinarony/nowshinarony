@@ -2,6 +2,9 @@
 
 I'm a UX/UI Designer & Front-End Developer who loves turning complexity into clean, intuitive interfaces. I design with empathy, build with precision, and move fast without sacrificing the details.
 
+### 📂 Featured Projects
+Check out my porfolio which I built with **React** + **Tailwind CSS**  👉 [nowshinarony.github.io](https://nowshinarony.github.io/)
+
 ### 💡 What I Do
 - 🎨 Design modern, accessible interfaces in **Figma**
 - 💻 Build responsive front-ends with **React** + **Tailwind CSS**
@@ -17,9 +20,6 @@ Also familiar with: `Python` `SQL` `Jira` `Notion` `Miro`
 - 🤖 How to leverage AI into user flows in meaningful ways
 - 🧩 Better ways to prototype complex systems faster
 - 📚 Sharing case studies and building cool side projects
-
-### 📂 Featured Projects
-Check out some of my work here 👉 [nowshinarony.github.io](https://nowshinarony.github.io/)
 
 ---
 
