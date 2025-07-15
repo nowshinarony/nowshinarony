@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nowshin
 
-I'm a UX/UI Designer & Front-End Developer who loves turning complexity into clean, intuitive interfaces. I design with empathy, build with precision, and move fast without sacrificing the details.
+I'm a UX/UI Designer & Front-End Developer who loves turning complexity into clean, intuitive interfaces. I use human-centered methods to design and move fast without sacrificing the details.
 
 ### 📂 Featured Projects
 Check out my porfolio which I built with **React** + **Tailwind CSS**  👉 [nowshinarony.github.io](https://nowshinarony.github.io/)
