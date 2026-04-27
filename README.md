@@ -6,7 +6,7 @@ I’m a UX Engineer and Product Designer who loves bridging design, research, an
 ### 📂 Featured Projects
 **Portfolio**  
 Built with React + Tailwind CSS  
-👉 nowshinarony.github.io
+👉 [nowshinarony.github.io](https://nowshinarony.github.io)
 
 **Canadian Software**  
 Designed the full new design system and currently contributing to front-end development.  
@@ -19,7 +19,7 @@ Building the component library and Storybook for a pet-sitting product.
 
 **HomeSwapHome**  
 Drove product design, UX research, and delivery  
-👉 https://homeswaphome.ca/
+👉 [homeswaphome.ca](https://homeswaphome.ca/)
 
 ### 💡 What I Do
 🎨 Design modern, accessible interfaces in Figma  
